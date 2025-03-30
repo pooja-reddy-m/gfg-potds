@@ -1,3 +1,5 @@
+
+//link to the problem: https://practice.geeksforgeeks.org/problems/circular-tour/1
 class Solution{
     public static void main(String[] args){
         int[] gas={1,2,3,4,5};
